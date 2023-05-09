@@ -1,0 +1,96 @@
+.container{
+    display: flex;
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    position: relative;
+    margin: auto ;
+
+}
+
+.container div{
+    width: 120px;
+    height: 120px;
+    /* background-color: blue; */
+    position: absolute;
+}
+.tile1{
+    background-color: black;
+}
+.tile2{
+  
+    background-color: black;
+    top: 120px;
+    left: 120px;
+}
+.tile3{
+    background-color: black;
+    top: 240px;
+    left: 240px;
+
+}
+.tile4{
+    background-color: black;
+    top: 360px;
+    left: 360px;
+}.tile5{
+    background-color: black;
+    top: 480px;
+    left: 480px;
+}
+
+.tile6{
+    background-color: black;
+    top: 480px;
+    /* left: 360px; */
+}
+
+.tile7{
+    background-color: black;
+    top: 360px;
+    left: 120px;
+}
+
+.tile8{
+    background-color: black;
+    left: 360px;
+    top: 120px;
+}
+
+.tile9{
+    background-color: black;
+    left: 480px;
+}
+
+.tile10{
+    background-color: black;
+    top: 240px;
+}
+
+.tile11{
+    background-color: black;
+    left: 240px;
+    top: 480px;
+}
+
+.tile12{
+    background-color: black;
+    left: 240px;
+}
+
+.tile13{
+    background-color: black;
+    left: 480px;
+    top: 240px;
+}
+
+
+
+
+
+
+body{
+    background-color: tan;
+    margin: auto 0;
+    padding: 0;
+}
